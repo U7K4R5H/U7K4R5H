@@ -3,7 +3,7 @@
 # I'm <a align="center" href="https://github.com/U7K4R5H"> Utkarsh Singh </a>,
 A Software developer by Profession, <a href="https://www.youtube.com/channel/UC4YrGwLyxgRCSL73xLdqbfw/" target="_blank">YouTuber</a> by passion, a tech enthusiast, Problem solver, passionate to learn new Valorant Lineups.
 
-<img src="https://media.giphy.com/media/D0EjguuQzYr9m/giphy.gif" width="90px" height="90px"><br/><b>Associate Softeare Developer at Mphasis.Ltd.</b>
+<img src="https://media.giphy.com/media/D0EjguuQzYr9m/giphy.gif" width="90px" height="90px"><br/><b>Associate Software Developer at Mphasis.Ltd.</b>
 
 <br/>
 
